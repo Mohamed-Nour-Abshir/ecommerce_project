@@ -1,0 +1,14 @@
+{
+    "version": 3,
+    "mappings": "AACA,OAAO,CAAC,uEAAI;AEDZ,AAAA,MAAM,EAAE,MAAM,AAAA,MAAM,CAAA;EAChB,OAAO,EAAE,eAAe;EACxB,UAAU,EAAE,eAAe;CAC9B;;ACHD,AAAA,WAAW,CAAA;EACP,WAAW,EFDF,YAAY,EAAE,UAAU;CEEpC;;AACD,AAAA,aAAa,CAAA;EACT,SAAS,EAAE,IAAI;CAClB;;AACD,AAAA,aAAa,CAAA;EACT,SAAS,EAAE,IAAI;CAClB;;AACD,AAAA,aAAa,CAAA;EACT,SAAS,EAAE,IAAI;CAClB;;AACD,AAAA,aAAa,CAAA;EACT,SAAS,EAAE,IAAI;CAClB;;ACdD,AAAA,cAAc,CAAA;EACV,KAAK,EHAO,OAAO;CGCtB;;AACD,AAAA,iBAAiB,CAAA;EACb,UAAU,EHHE,OAAO;CGItB;;AACD,AAAA,gBAAgB,CAAA;EACZ,KAAK,EHLS,OAAO;CGMxB;;AACD,AAAA,mBAAmB,CAAA;EACf,UAAU,EHRI,OAAO;CGSxB;;AACD,AAAA,aAAa,CAAA;EACT,KAAK,EHVK,OAAO;CGWpB;;AACD,AAAA,gBAAgB,CAAA;EACZ,UAAU,EHbA,OAAO;CGcpB",
+    "sources": [
+        "style.scss",
+        "includes/varialbes.scss",
+        "includes/global.scss",
+        "includes/typography.scss",
+        "includes/color.scss",
+        "includes/top-sale.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
